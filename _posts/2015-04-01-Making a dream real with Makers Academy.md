@@ -4,6 +4,9 @@ title:  "Making a dream real with Makers Academy"
 date:   2015-04-01 13:35:33 +0000
 categories: Makers Academy
 ---
+<div style="text-align:center" markdown="1">
+![alt text](https://www.dropbox.com/s/jq4cx7oy4mr0spy/makers-academy.png?dl=1)
+</div>
 
 Back in 1999 when I had my first contact with programming at Army University in
 Bogota-Colombia, I was dreaming to become a Mechatronic Engineer and build all
