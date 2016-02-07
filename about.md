@@ -10,5 +10,4 @@ I am **William Bautista-Romero**, until recently a Mechatronic Engineer, since
 2015 a dreamer trying to become a Full Stack Web Developer, this is my business
 card to the world.
 
-I always be grateful with God, my family and Makers Academy of course, all of them
-crucial to become that dream real.
+I will always be grateful with God, my family and Makers Academy of course, all of them have played an important role in my life to get that dream real.
